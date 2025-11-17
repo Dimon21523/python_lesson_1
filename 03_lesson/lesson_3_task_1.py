@@ -1,4 +1,4 @@
-from user import User 
+from user import User
 
 my_user = User("Dimitris", "Ioannou")
 
