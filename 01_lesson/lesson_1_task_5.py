@@ -1,6 +1,13 @@
 def print_number(num):
-    print(num)
+    print(num, end ="")
 
-
-for _ in range(11):
-    print_number(762762777)
+print_number(7)
+print_number(6)
+print_number(2)    
+print_number(7)
+print_number(6)
+print_number(2)
+print_number(7)
+print_number(7)
+print_number(7)
+print_number(7)
