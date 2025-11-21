@@ -52,7 +52,6 @@ class StringUtils:
         Пример 1: `delete_symbol("SkyPro", "k") -> "SyPro"`
         Пример 2: `delete_symbol("SkyPro", "Pro") -> "Sky"`
         """
-        
         if symbol == "":
             return string
 
